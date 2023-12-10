@@ -1,0 +1,18 @@
+.contador {
+  text-align: center;
+  padding: 10px;
+}
+
+.numero {
+  margin: 15px 0 15px 0;
+  font-size: 30px;
+  color: red;
+}
+
+.btn-sumar {
+  background-color: green;
+}
+
+.btn-restar {
+  background-color: red;
+}
